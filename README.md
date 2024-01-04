@@ -8,7 +8,7 @@
 
 ### I am
 
-- Freelance Software Developer: [NEXLINK Corp](http://www.nexlink.co.kr/)
+- Freelance Software Developer at [NEXLINK Corp](http://www.nexlink.co.kr/)
 - (2023) Head of technology and software team of [AUTORY](https://github.com/autory-sju)
 
 ### Projects
