@@ -8,12 +8,12 @@
 
 ### I am
 
-- Freelance Software Developer: [Nexlink](http://www.nexlink.co.kr/)
-- (Former) Head of technology and software team of [AUTORY](https://github.com/autory-sju)
+- Freelance Software Developer: [NEXLINK Corp](http://www.nexlink.co.kr/)
+- (2023) Head of technology and software team of [AUTORY](https://github.com/autory-sju)
 
 ### Projects
 
-- Upzigi: Selling tools (2023~, under maintenance)
+- Upzigi: Selling tools (2023~, maintaining)
 
   - Automating sales processes including registering products, sales tracking, scheduled management and CRM(Customer Relationship Management)
   - Compatible with Coupang, Smart store, 11st, Auction, Gmarket
