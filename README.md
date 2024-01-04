@@ -19,11 +19,12 @@
   - Compatible with Coupang, Smart store, 11st, Auction, Gmarket
   - `Spring boot` `Python` `MariaDB`
 
-- Car sejong: Autonomous driving car (2023)
+- Car sejong: Autonomous self-driving car (2023)
 
   - Designing structure of frame, software organization and control module
   - Making car by cutting and welding pipeline
   - Integrating software; Perception(camera & lidar), Decision and planning(pure pursuit), Control(Arduino)
+  - Participating Autonomous driving performance category of the Korea Automobile Safety Research Institute's creative mobility competition
   - `ROS` `MATLAB` `Python` `C` `Arduino`
 
 - Chattree: Building scenarios for customer service (2022)
