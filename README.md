@@ -1,6 +1,6 @@
 ### Hello everyone 😎
 
-** I make a better world for people. **
+**I make a better world for people.**
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/do1git)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/duwon-kim-4a9b1b286)
