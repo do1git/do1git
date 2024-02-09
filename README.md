@@ -35,5 +35,5 @@
 
 - IMS: Integrated Manufacturing System (2021~2022)
   - Web based MES(Manufacturing Execution System)
-  - Digitializing physical manufacturing processes including stocktaking inventory investigation, manufacturing, shipping and customer services
+  - Digitalizing physical manufacturing processes including stocktaking inventory investigation, manufacturing, shipping and customer services
   - `Express.js` `Pug.js` `mongoDB`
