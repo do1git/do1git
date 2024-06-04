@@ -8,12 +8,13 @@
 
 ### I am a/the
 
-- Software Developer at [NEXLINK Corp](http://www.nexlink.co.kr/)
+- Software Developer at [Advanced International Freight, Inc.](https://www.aif-usa.com/)
+- (2023) Software Developer at [NEXLINK Corp](http://www.nexlink.co.kr/)
 - (2023) Head of technology and software team at [AUTORY](https://github.com/autory-sju)
 
 ### Projects
 
-- Upzigi: Selling tools (2023~, maintaining)
+- Upzigi: Selling tools (2023~2024)
 
   - Developed automated sales strategic technology solutions including registering products, sales tracking, scheduled management, and CRM (Customer Relationship Management) compatible with Korea’s Top 5 online shopping malls along with Coupang, Smart store, 11st, Auction, and Gmarket.
   - Used data to save operating costs, improve system speed, and solve latency problems.
