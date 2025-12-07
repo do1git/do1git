@@ -2,13 +2,13 @@
 
 **I make a better world for people.**
 
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/duwon-kim)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/do1git)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dev.dothe1@gmail.com)
 
 ### I am
 
-- Software Developer at [NEXLINK Corp](http://www.nexlink.co.kr/)
-- Head of technology and software team at [AUTORY](https://github.com/autory-sju)
+- Software Developer interested in Backend, Cloud, Applied AI, DDD
 
 ### Projects I've worked on are
 
