@@ -21,7 +21,7 @@
 - Built asynchronous workflows with message queues and event-driven architecture for reliable background processing.
 - Applied AI to automate document classification and structured data extraction.
 - Deployed and operated containerized applications on AWS with automated CI/CD, monitoring, and alerting.
-- `ASP.NET Core` `AWS` `ECS Fargate` `SQS` `MariaDB` `Redis` `GitHub Actions`
+- `ASP.NET Core` `AWS` `MariaDB` `Redis` `GitHub Actions`
 
 #### Healthcare Support Platform
 
